@@ -1,0 +1,7 @@
+
+X
+java:S1854">Remove this useless assignment to local variable "calculator".(ïÚ­8×Ğ˜œ‘/
+I
+java:S1481"/Remove this unused "calculator" local variable.(ïÚ­8×Ğ˜œ‘/
+X	java:S106"9Replace this use of System.out or System.err by a logger.(‚ŞÏ¥ıÿÿÿÿ8£Ñ­›‘/
+y	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Ñí™¯ùÿÿÿÿ8É¬›‘/
